@@ -1,4 +1,7 @@
-hello -
+Hello -
 
-this is a text file,
-file name is hello.txt
+This is a textFile,
+
+File name is hello.txt
+
+OK, joining it!
